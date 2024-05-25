@@ -34,6 +34,8 @@ content:
       tag: CV
     - name: NLP
       tag: NLP
+    - name: EDA
+      tag: EDA
 
 design:
   columns: '1'
