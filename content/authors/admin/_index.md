@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Abhilash Das (吳恩達)
+title: Abhilash Das 
 
 # Is this the primary user of the site?
 superuser: true
