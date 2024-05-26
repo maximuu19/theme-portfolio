@@ -25,7 +25,7 @@ experience:
   - title: Data Science Intern
     company: Innodatatics
     company_url: 'https://innodatatics.ai/'
-    company_logo: innodatatics-white1
+    company_logo: inno-3
     date_start: '2024-04-01'
     
   - title: CEO
