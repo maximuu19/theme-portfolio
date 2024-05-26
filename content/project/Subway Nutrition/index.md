@@ -1,8 +1,8 @@
 ---
-title: ResUNet++ viability for skin lesion segmentation
-summary: mtech
+title: Subway Nutrition EDA
+summary: Subway Nutrition EDA using visualization packages like plotly
 tags:
-  - ML
+  - EDA
 date: 2022-01-01
-external_link: https://www.kaggle.com/code/abhilashdas/resunet-skin-lesion/notebook
+external_link: https://www.kaggle.com/code/abhilashdas/fast-food-yum-yum-2-me
 ---
