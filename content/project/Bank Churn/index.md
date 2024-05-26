@@ -1,6 +1,6 @@
 ---
 title: ResUNet++ viability for skin lesion segmentation
-summary: mtech
+summary: M.Tech. Project on ResUNet++ 
 tags:
   - ML
 date: 2022-01-01
