@@ -24,6 +24,9 @@ date_format: Jan 2006
 experience:
   - title: Data Science Intern
     company: Innodatatics
+    company_url: ''
+    company_logo: 'https://innodatatics.ai/assets/innodatatics-white1.png'
+    date_start: '2024-04-01'
     
   - title: CEO
     company: GenCoin
