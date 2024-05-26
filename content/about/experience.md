@@ -24,8 +24,8 @@ date_format: Jan 2006
 experience:
   - title: Data Science Intern
     company: Innodatatics
-    company_url: ''
-    company_logo: 'https://innodatatics.ai/assets/innodatatics-white1.png'
+    company_url: 'https://innodatatics.ai/'
+    company_logo: innodatatics-white1
     date_start: '2024-04-01'
     
   - title: CEO
