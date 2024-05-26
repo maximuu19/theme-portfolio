@@ -1,6 +1,6 @@
 ---
 title: PyTorch implementation of DCGAN
-summary: PyTorch implementation of DCGAN with AMP trainin
+summary: PyTorch implementation of DCGAN with AMP training
 tags:
   - ML
 date: 2022-01-01
