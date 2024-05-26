@@ -1,5 +1,5 @@
 ---
-title: WGAN: Wasserstein Generative Adversarial Networks
+title: Wasserstein Generative Adversarial Networks
 summary: PyTorch implementation of WGAN on celebrity faces dataset
 tags:
   - ML
