@@ -36,6 +36,10 @@ content:
       tag: NLP
     - name: EDA
       tag: EDA
+    - name: SQL
+      tag: SQL
+    - name: Power BI
+      tag: powerbi
 
 design:
   columns: '1'
