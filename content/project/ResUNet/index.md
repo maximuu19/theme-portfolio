@@ -1,6 +1,6 @@
 ---
 title: ResUNet++ viability for skin lesion segmentation
-summary: mtech
+summary: Tested the efficacy of ResUNet++(used for colonoscopy) on skin lesions
 tags:
   - ML
 date: 2022-01-01
