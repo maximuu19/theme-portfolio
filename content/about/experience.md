@@ -22,6 +22,12 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Data Science Intern
+    company: Innodatatics
+    company_url: ''
+    company_logo: 'https://innodatatics.ai/assets/innodatatics-white1.png'
+    date_start: '2024-04-01'
+    
   - title: CEO
     company: GenCoin
     company_url: ''
