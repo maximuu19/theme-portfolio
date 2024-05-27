@@ -31,6 +31,38 @@ item:
     organization_url: http://innodatatics.in/
     title: SQL certification
     url: ''
+  - certificate_url: https://drive.google.com/file/d/1e1XhA0T9ut0uZ23H9wKuuV-JfoSEH9ob/view?usp=sharing
+    date_end: ''
+    date_start: '2023-12-28'
+    description: ''
+    organization: Innodatatics
+    organization_url: http://innodatatics.in/
+    title: Python programming certification
+    url: ''
+  - certificate_url: https://drive.google.com/file/d/1h8iA6dZZZI-M041LjjkXye1Kfr1xs9sn/view?usp=sharing
+    date_end: ''
+    date_start: '2023-12-28'
+    description: ''
+    organization: Innodatatics
+    organization_url: http://innodatatics.in/
+    title: Data Visualisation using Power BI certification
+    url: ''
+  - certificate_url: https://drive.google.com/file/d/10BA7RZAmLyOXVef8FeejUj5JueMR_ha5/view?usp=sharing
+    date_end: ''
+    date_start: '2023-12-28'
+    description: ''
+    organization: Innodatatics
+    organization_url: http://innodatatics.in/
+    title: Data Science using Python & R Programming certification
+    url: ''
+  - certificate_url: https://360digitmg.com/verifier/fb1e8f59-6c62-4a2a-a62a-f18c8da4e8eb
+    date_end: ''
+    date_start: '2023-12-28'
+    description: ''
+    organization: Innodatatics
+    organization_url: http://innodatatics.in/
+    title: Data Science certification programme
+    url: ''
   - certificate_url: https://www.edx.org
     date_end: ''
     date_start: '2021-01-01'
